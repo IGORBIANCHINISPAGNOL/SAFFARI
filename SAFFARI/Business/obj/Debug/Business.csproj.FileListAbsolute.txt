@@ -1,0 +1,37 @@
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\Business\bin\Debug\Business.dll
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\Business\bin\Debug\Business.pdb
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\Business\bin\Debug\DataBase.dll
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\Business\bin\Debug\DataBase.pdb
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.dll
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.pdb
+D:\PROJETONOVO\SAFFARI\Business\bin\Debug\Business.dll
+D:\PROJETONOVO\SAFFARI\Business\bin\Debug\Business.pdb
+D:\PROJETONOVO\SAFFARI\Business\bin\Debug\DataBase.dll
+D:\PROJETONOVO\SAFFARI\Business\bin\Debug\DataBase.pdb
+D:\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+D:\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.csproj.CopyComplete
+D:\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.dll
+D:\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\Business\bin\Debug\Business.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\Business\bin\Debug\Business.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\Business\bin\Debug\DataBase.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\Business\bin\Debug\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\Business\obj\Debug\Business.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\bin\Debug\Business.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\bin\Debug\Business.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\bin\Debug\DataBase.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\bin\Debug\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\obj\Debug\Business.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\obj\Debug\Business.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\bin\Debug\DataBase.dll.config

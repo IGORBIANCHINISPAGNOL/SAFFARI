@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ED5D80E6-EA88-45E7-9146-122F1C3471B2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SAFFARI</RootNamespace>
+    <AssemblyName>SAFFARI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TELAS\AdcEst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\AdcEst.Designer.cs">
+      <DependentUpon>AdcEst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\AdcValores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\AdcValores.Designer.cs">
+      <DependentUpon>AdcValores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\AdicionarEntradaSaidaF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\AdicionarEntradaSaidaF.Designer.cs">
+      <DependentUpon>AdicionarEntradaSaidaF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\CadtClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\CadtClient.Designer.cs">
+      <DependentUpon>CadtClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\CadtCliente2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\CadtCliente2.Designer.cs">
+      <DependentUpon>CadtCliente2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\Clientes2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\Clientes2.Designer.cs">
+      <DependentUpon>Clientes2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\CMDINFO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\CMDINFO.Designer.cs">
+      <DependentUpon>CMDINFO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\ComandaF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\ComandaF.Designer.cs">
+      <DependentUpon>ComandaF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\CriarComandaF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\CriarComandaF.Designer.cs">
+      <DependentUpon>CriarComandaF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\CriarComandaIIF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\CriarComandaIIF.Designer.cs">
+      <DependentUpon>CriarComandaIIF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\EditarImpressaoF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\EditarImpressaoF.Designer.cs">
+      <DependentUpon>EditarImpressaoF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\EstoqueF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\EstoqueF.Designer.cs">
+      <DependentUpon>EstoqueF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\FinalizarCF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\FinalizarCF.Designer.cs">
+      <DependentUpon>FinalizarCF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\FinanceiroF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\FinanceiroF.Designer.cs">
+      <DependentUpon>FinanceiroF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\InformacoesF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\InformacoesF.Designer.cs">
+      <DependentUpon>InformacoesF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\MensagemCozinha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\MensagemCozinha.Designer.cs">
+      <DependentUpon>MensagemCozinha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TELAS\MENU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\MENU.Designer.cs">
+      <DependentUpon>MENU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TELAS\ProdCMD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TELAS\ProdCMD.Designer.cs">
+      <DependentUpon>ProdCMD.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TELAS\AdcEst.resx">
+      <DependentUpon>AdcEst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\AdcValores.resx">
+      <DependentUpon>AdcValores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\AdicionarEntradaSaidaF.resx">
+      <DependentUpon>AdicionarEntradaSaidaF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\CadtClient.resx">
+      <DependentUpon>CadtClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\CadtCliente2.resx">
+      <DependentUpon>CadtCliente2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\Clientes2.resx">
+      <DependentUpon>Clientes2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\CMDINFO.resx">
+      <DependentUpon>CMDINFO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\ComandaF.resx">
+      <DependentUpon>ComandaF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\CriarComandaF.resx">
+      <DependentUpon>CriarComandaF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\CriarComandaIIF.resx">
+      <DependentUpon>CriarComandaIIF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\EditarImpressaoF.resx">
+      <DependentUpon>EditarImpressaoF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\EstoqueF.resx">
+      <DependentUpon>EstoqueF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\FinalizarCF.resx">
+      <DependentUpon>FinalizarCF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\FinanceiroF.resx">
+      <DependentUpon>FinanceiroF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\InformacoesF.resx">
+      <DependentUpon>InformacoesF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\MensagemCozinha.resx">
+      <DependentUpon>MensagemCozinha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TELAS\MENU.resx">
+      <DependentUpon>MENU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TELAS\ProdCMD.resx">
+      <DependentUpon>ProdCMD.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj">
+      <Project>{40af8676-0ec9-4164-88f7-e4b08bb63f14}</Project>
+      <Name>Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataBase\DataBase.csproj">
+      <Project>{f041af83-8db8-40d0-ac51-112e726c7d93}</Project>
+      <Name>DataBase</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

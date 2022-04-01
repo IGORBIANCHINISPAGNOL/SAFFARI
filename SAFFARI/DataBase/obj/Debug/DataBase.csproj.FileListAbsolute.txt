@@ -1,0 +1,25 @@
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\DataBase\bin\Debug\DataBase.dll
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\DataBase\bin\Debug\DataBase.pdb
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.dll
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.pdb
+D:\PROJETONOVO\SAFFARI\DataBase\bin\Debug\DataBase.dll
+D:\PROJETONOVO\SAFFARI\DataBase\bin\Debug\DataBase.pdb
+D:\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+D:\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+D:\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.dll
+D:\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\DataBase\bin\Debug\DataBase.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\DataBase\bin\Debug\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\DataBase\obj\Debug\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\bin\Debug\DataBase.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\bin\Debug\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\obj\Debug\DataBase.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\obj\Debug\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\bin\Debug\DataBase.dll.config

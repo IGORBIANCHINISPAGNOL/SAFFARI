@@ -1,0 +1,10 @@
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\bin\Release\Business.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\bin\Release\Business.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\bin\Release\DataBase.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\bin\Release\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\obj\Release\Business.csproj.AssemblyReference.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\obj\Release\Business.csproj.CoreCompileInputs.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\obj\Release\Business.csproj.CopyComplete
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\obj\Release\Business.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\obj\Release\Business.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\Business\bin\Release\DataBase.dll.config

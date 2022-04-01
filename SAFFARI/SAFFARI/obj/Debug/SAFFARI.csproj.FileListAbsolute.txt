@@ -1,0 +1,111 @@
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.exe.config
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.exe
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.pdb
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\Business.dll
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\DataBase.dll
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\Business.pdb
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\DataBase.pdb
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.AssemblyReference.cache
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.Properties.Resources.resources
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.GenerateResource.cache
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.CoreCompileInputs.cache
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.CopyComplete
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.exe
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.pdb
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.MENU.resources
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.TESTE.resources
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ClientesF.resources
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CMDINFO.resources
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ComandaF.resources
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CriarComandaF.resources
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CriarComandaIIF.resources
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ProdCMD.resources
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.EditarImpressaoF.resources
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.FinalizarCF.resources
+C:\Users\igorl\Documents\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.Clientes2.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.exe.config
+D:\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.exe
+D:\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.pdb
+D:\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\Business.dll
+D:\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\DataBase.dll
+D:\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\Business.pdb
+D:\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\DataBase.pdb
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.AssemblyReference.cache
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.SuggestedBindingRedirects.cache
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.Clientes2.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ClientesF.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CMDINFO.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ComandaF.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CriarComandaF.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CriarComandaIIF.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.EditarImpressaoF.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.FinalizarCF.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.MENU.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.Properties.Resources.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ProdCMD.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.TESTE.resources
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.GenerateResource.cache
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.CoreCompileInputs.cache
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.CopyComplete
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.exe
+D:\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.exe.config
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.exe
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\Business.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\DataBase.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\Business.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\bin\Debug\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.AssemblyReference.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.SuggestedBindingRedirects.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.Clientes2.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ClientesF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CMDINFO.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ComandaF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CriarComandaF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CriarComandaIIF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.EditarImpressaoF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.FinalizarCF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.MENU.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.Properties.Resources.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ProdCMD.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.TESTE.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.GenerateResource.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.CoreCompileInputs.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.CopyComplete
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.exe
+C:\Users\bianc\OneDrive\Área de Trabalho\pendrive\PROJETONOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.exe.config
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.exe
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\bin\Debug\SAFFARI.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\bin\Debug\Business.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\bin\Debug\DataBase.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\bin\Debug\Business.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\bin\Debug\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.AssemblyReference.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.SuggestedBindingRedirects.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.Clientes2.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CMDINFO.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ComandaF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CriarComandaF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CriarComandaIIF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.EditarImpressaoF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.FinalizarCF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.MENU.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.Properties.Resources.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ProdCMD.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.GenerateResource.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.CoreCompileInputs.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.CopyComplete
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.exe
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CadtClient.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.FinanceiroF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.AdcEst.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.EstoqueF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.AdicionarEntradaSaidaF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.MensagemCozinha.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CadtCliente2.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\bin\Debug\DataBase.dll.config
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\ProjetoLauge.TELAS.InformacoesF.resources
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.AdcValores.resources

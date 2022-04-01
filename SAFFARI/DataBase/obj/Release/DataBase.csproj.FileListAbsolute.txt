@@ -1,0 +1,7 @@
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\bin\Release\DataBase.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\bin\Release\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\obj\Release\DataBase.csproj.AssemblyReference.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\obj\Release\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\obj\Release\DataBase.dll
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\obj\Release\DataBase.pdb
+C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\DataBase\bin\Release\DataBase.dll.config

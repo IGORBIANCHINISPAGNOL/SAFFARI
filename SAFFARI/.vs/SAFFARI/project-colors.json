@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed5d80e6-ea88-45e7-9146-122f1c3471b2": {
+      "ProjectGuid": "ed5d80e6-ea88-45e7-9146-122f1c3471b2",
+      "DisplayName": "SAFFARI",
+      "ColorIndex": 0
+    },
+    "f041af83-8db8-40d0-ac51-112e726c7d93": {
+      "ProjectGuid": "f041af83-8db8-40d0-ac51-112e726c7d93",
+      "DisplayName": "DataBase",
+      "ColorIndex": 1
+    },
+    "40af8676-0ec9-4164-88f7-e4b08bb63f14": {
+      "ProjectGuid": "40af8676-0ec9-4164-88f7-e4b08bb63f14",
+      "DisplayName": "Business",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
