@@ -90,12 +90,12 @@ namespace SAFFARI.TELAS
                     }
                     if (type == 2)
                     {
-                        if (p.Nome.Contains("*"))
+                        if (p.Nome.Contains("-"))
                             list.Add(p);
                     }
                     if (type == 3)
                     {
-                        if (p.Nome.Contains("-"))
+                        if (p.Nome.Contains("*"))
                             list.Add(p);
                     }
                     if (type == 4)
@@ -165,7 +165,7 @@ namespace SAFFARI.TELAS
         private void btnFuncionarios_Click(object sender, EventArgs e)
         {
             string buscar = txtBuscarComandaPulseira.Text.Trim();
-            Buscar(3, buscar);
+            Buscar(2, buscar);
         }
 
         private void btnAtivas_Click(object sender, EventArgs e)
@@ -177,7 +177,7 @@ namespace SAFFARI.TELAS
         private void btnArquivadas_Click(object sender, EventArgs e)
         {
             string buscar = txtBuscarComandaPulseira.Text.Trim();
-            Buscar(2, buscar);
+            Buscar(3, buscar);
         }
     }
 }
