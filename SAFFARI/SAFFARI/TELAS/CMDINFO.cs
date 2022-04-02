@@ -134,5 +134,16 @@ namespace SAFFARI.TELAS
             adc.ShowDialog();
             CarregarTabConsumo();
         }
+
+        private void btnArquivar_Click(object sender, EventArgs e)
+        {
+            Comanda comandas = new Comanda();
+            if (comanda.Nome.Contains("*"))
+                comanda.Nome = comanda.Nome.Replace("* ", "");
+            else
+                comanda.Nome = comanda.Nome.Insert(0, "* ");
+            comanda.Salvar();
+            lblNomedoCliente.Text = comanda.Nome;
+        }
     }
 }

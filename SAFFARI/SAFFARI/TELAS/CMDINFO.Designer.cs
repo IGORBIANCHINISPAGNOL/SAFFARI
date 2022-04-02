@@ -38,6 +38,7 @@ namespace SAFFARI.TELAS
             this.btnRemoverItem = new System.Windows.Forms.Button();
             this.btnFinalizarComanda = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnArquivar = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.lblPulseira = new System.Windows.Forms.Label();
             this.lblLugar = new System.Windows.Forms.Label();
@@ -67,7 +68,7 @@ namespace SAFFARI.TELAS
             this.btnVoltar.ForeColor = System.Drawing.SystemColors.Window;
             this.btnVoltar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnVoltar.ImageIndex = 0;
-            this.btnVoltar.Location = new System.Drawing.Point(85, 597);
+            this.btnVoltar.Location = new System.Drawing.Point(83, 569);
             this.btnVoltar.Margin = new System.Windows.Forms.Padding(4);
             this.btnVoltar.Name = "btnVoltar";
             this.btnVoltar.Size = new System.Drawing.Size(184, 54);
@@ -135,6 +136,7 @@ namespace SAFFARI.TELAS
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(54)))), ((int)(((byte)(54)))), ((int)(((byte)(54)))));
+            this.panel1.Controls.Add(this.btnArquivar);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.lblPulseira);
             this.panel1.Controls.Add(this.lblLugar);
@@ -144,6 +146,20 @@ namespace SAFFARI.TELAS
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(283, 715);
             this.panel1.TabIndex = 22;
+            // 
+            // btnArquivar
+            // 
+            this.btnArquivar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(74)))), ((int)(((byte)(74)))));
+            this.btnArquivar.FlatAppearance.BorderSize = 0;
+            this.btnArquivar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnArquivar.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnArquivar.Location = new System.Drawing.Point(9, 673);
+            this.btnArquivar.Name = "btnArquivar";
+            this.btnArquivar.Size = new System.Drawing.Size(98, 39);
+            this.btnArquivar.TabIndex = 48;
+            this.btnArquivar.Text = "ARQUIVAR";
+            this.btnArquivar.UseVisualStyleBackColor = false;
+            this.btnArquivar.Click += new System.EventHandler(this.btnArquivar_Click);
             // 
             // label1
             // 
@@ -414,5 +430,6 @@ namespace SAFFARI.TELAS
         private System.Windows.Forms.DataGridViewTextBoxColumn Valor;
         private System.Windows.Forms.DataGridViewTextBoxColumn Horario;
         private System.Windows.Forms.Button btnAdcValores;
+        private System.Windows.Forms.Button btnArquivar;
     }
 }
