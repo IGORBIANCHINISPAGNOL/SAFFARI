@@ -178,6 +178,11 @@ namespace SAFFARI.TELAS
         {
             string buscar = txtBuscarComandaPulseira.Text.Trim();
             Buscar(3, buscar);
+            Teste();
+        }
+        private void Teste()
+        {
+
         }
     }
 }

@@ -109,3 +109,37 @@ C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFA
 C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\bin\Debug\DataBase.dll.config
 C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\ProjetoLauge.TELAS.InformacoesF.resources
 C:\Users\bianc\OneDrive\Área de Trabalho\ORM SAFFARI PROJETO NOVO\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.AdcValores.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\bin\Debug\SAFFARI.exe.config
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\bin\Debug\SAFFARI.exe
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\bin\Debug\SAFFARI.pdb
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\bin\Debug\Business.dll
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\bin\Debug\DataBase.dll
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\bin\Debug\Business.pdb
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\bin\Debug\DataBase.pdb
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\bin\Debug\DataBase.dll.config
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.AssemblyReference.cache
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.AdcEst.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.AdcValores.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.AdicionarEntradaSaidaF.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CadtClient.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CadtCliente2.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.Clientes2.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CMDINFO.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ComandaF.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CriarComandaF.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.CriarComandaIIF.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.EditarImpressaoF.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.EstoqueF.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.FinalizarCF.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.FinanceiroF.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\ProjetoLauge.TELAS.InformacoesF.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.MensagemCozinha.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.MENU.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.Properties.Resources.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.TELAS.ProdCMD.resources
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.GenerateResource.cache
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.CoreCompileInputs.cache
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.csproj.CopyComplete
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.exe
+C:\Dev\Nova pasta\SAFFARI\SAFFARI\SAFFARI\obj\Debug\SAFFARI.pdb
